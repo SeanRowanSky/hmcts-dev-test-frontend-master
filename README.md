@@ -49,7 +49,7 @@ src/
 
 1. Clone the repository
 ```bash
-git clone clone https://github.com/Tek-Planet/hmcts-dev-test-frontend.git
+git clone clone (https://github.com/SeanRowanSky/hmcts-dev-test-frontend-master.git)
 cd hmcts-dev-test-frontend
 ```
 
